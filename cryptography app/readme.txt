@@ -5,7 +5,9 @@ Functions:
 
 Input_files:
 	Any files you would like to encrypt/hash, put them in this directory and the functions
-	will search this folder to operate on them.
+	will search this folder to operate on them depending on the method chosen. Not all 
+	of the encryption methods are able to operate on binary files (images) as I haven't
+	programmed it yet, but every method will work with text files.
 
 
 Output_files:
