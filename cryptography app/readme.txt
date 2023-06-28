@@ -36,3 +36,6 @@ Extra:
 	References are provided within the code as comments, as well as text file 
 	licenses within the Encryption/Hashing folders in the functions folder from 
 	authors for some of the algorithms.
+
+	This was coded in matlab, so if you can't run it on another application, try
+	to run it on matlab.
